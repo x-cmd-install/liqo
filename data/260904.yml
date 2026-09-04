@@ -7,7 +7,7 @@ about:
   head: fadce7a
   archived: false
   latestVersion: v1.2.0
-  collectedAt: 2026-09-04T19:56:58Z
+  collectedAt: 2026-09-04T20:42:50Z
 timeline:
   created: 2020-05-06
   lastCommit: 2026-09-04
@@ -85,6 +85,89 @@ total:
   openIssue: 60
   commit: 2929
 ---
+path: /home/runner/.x-repo/github.com/liqotech/liqo
+collectedAt: 2026-09-04T20:42:52Z
+loc:
+  Go:
+    code: 90848
+    comments: 24587
+    blanks: 17873
+    files: 1199
+  Yaml:
+    code: 50057
+    comments: 510
+    blanks: 347
+    files: 133
+  Json:
+    code: 4233
+    comments: 0
+    blanks: 0
+    files: 2
+  Svg:
+    code: 3781
+    comments: 23
+    blanks: 19
+    files: 23
+  Sh:
+    code: 1893
+    comments: 606
+    blanks: 544
+    files: 40
+  Pan:
+    code: 300
+    comments: 0
+    blanks: 32
+    files: 2
+  Makefile:
+    code: 228
+    comments: 49
+    blanks: 53
+    files: 2
+  Python:
+    code: 203
+    comments: 52
+    blanks: 44
+    files: 2
+  Hcl:
+    code: 189
+    comments: 0
+    blanks: 39
+    files: 1
+  Protobuf:
+    code: 47
+    comments: 0
+    blanks: 14
+    files: 1
+  Css:
+    code: 38
+    comments: 8
+    blanks: 10
+    files: 1
+  Dockerfile:
+    code: 38
+    comments: 12
+    blanks: 17
+    files: 4
+  Xml:
+    code: 17
+    comments: 0
+    blanks: 0
+    files: 11
+  Markdown:
+    code: 0
+    comments: 7581
+    blanks: 4895
+    files: 84
+  Text:
+    code: 0
+    comments: 25
+    blanks: 0
+    files: 3
+total:
+  code: 153056
+  comments: 33483
+  blanks: 23900
+  files: 1508
 ---
 date: "2026-08-24"
 repo:
