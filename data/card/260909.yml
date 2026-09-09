@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.2.0"
   latestRelease: "v1.2.0"
   latestPrerelease: "v1.0.0-rc.1"
-  collectedAt: 2026-09-09T05:39:33Z
+  collectedAt: 2026-09-09T19:46:24Z
 timeline:
   created: 2020-05-06
   lastCommit: 2026-09-04
@@ -88,7 +88,7 @@ total:
   commit: 2929
 ---
 path: /home/runner/.x-repo/github.com/liqotech/liqo
-collectedAt: 2026-09-09T05:39:37Z
+collectedAt: 2026-09-09T19:46:29Z
 loc:
   Go:
     code: 90848
