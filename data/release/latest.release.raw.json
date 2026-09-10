@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 383476,
       "digest": "sha256:28f6db9efda7fa9c1947c9bf394b227f805dfaaae2e1ec91e02a474fa349997e",
-      "download_count": 2165,
+      "download_count": 2191,
       "created_at": "2026-07-03T07:04:44Z",
       "updated_at": "2026-07-03T07:04:45Z",
       "browser_download_url": "https://github.com/liqotech/liqo/releases/download/v1.2.0/liqo-v1.2.0.tgz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 23078952,
       "digest": "sha256:88c81be5abfe118bb5d7d45cfde6787267b26bbd5d1c2430486f7017146bf15f",
-      "download_count": 397,
+      "download_count": 398,
       "created_at": "2026-07-03T07:04:59Z",
       "updated_at": "2026-07-03T07:05:00Z",
       "browser_download_url": "https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-linux-amd64.tar.gz"
