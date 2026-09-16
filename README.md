@@ -14,11 +14,11 @@ x install liqo
 
 ## Code insight
 
-Total: **152,593** lines of code across **1394** files in the top 5 languages.
+Total: **152,652** lines of code across **1394** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 91,275 | 24,629 | 17,941 | 1196 |
+| Go | 91,334 | 24,641 | 17,951 | 1196 |
 | Yaml | 50,351 | 510 | 347 | 133 |
 | Json | 4,233 | 0 | 0 | 2 |
 | Svg | 3,781 | 23 | 19 | 23 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.2.0` (2026-07-03)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-15
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 1,483 · **Forks**: 152 · **Open issues**: 350 · **Contributors**: 65
+- **Stars**: 1,485 · **Forks**: 152 · **Open issues**: 351 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 2350 · **Open PRs**: 56 · **Closed issues**: 291 · **Open issues**: 59 · **Commits**: 2932
+- **Releases**: 59 · **Merged PRs**: 2351 · **Open PRs**: 57 · **Closed issues**: 291 · **Open issues**: 60 · **Commits**: 2933
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 5 | 11 | 0 | 1 | 9 |
-| last60d | 2026-07-17 | 0 | 10 | 20 | 0 | 3 | 15 |
-| 90d | 2026-06-17 | 1 | 22 | 22 | 1 | 4 | 26 |
-| last180d | 2026-03-19 | 1 | 65 | 40 | 3 | 10 | 70 |
-| 360d | 2025-09-20 | 6 | 120 | 50 | 5 | 26 | 145 |
-| last720d | 2024-09-25 | 10 | 321 | 56 | 30 | 38 | 420 |
+| 30d | 2026-08-17 | 0 | 6 | 12 | 0 | 2 | 10 |
+| last60d | 2026-07-18 | 0 | 11 | 21 | 0 | 3 | 16 |
+| 90d | 2026-06-18 | 1 | 23 | 23 | 1 | 5 | 27 |
+| last180d | 2026-03-20 | 1 | 66 | 41 | 3 | 11 | 71 |
+| 360d | 2025-09-21 | 6 | 121 | 51 | 5 | 27 | 146 |
+| last720d | 2024-09-26 | 10 | 322 | 57 | 30 | 39 | 420 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for liqo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:55:08Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:52:40Z._
