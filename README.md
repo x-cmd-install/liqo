@@ -4,7 +4,7 @@
 
 Enable dynamic and seamless Kubernetes multi-cluster topologies
 
-![liqo](https://repo.x-cmd.io/liqo.svg)
+[![x-cmd/install — liqo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/liqo.svg)](https://x-cmd.com/install/liqo)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install liqo
 
 ## Code insight
 
-Total: **152,905** lines of code across **1398** files in the top 5 languages.
+Total: **153,024** lines of code across **1398** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 91,589 | 24,694 | 18,010 | 1200 |
-| Yaml | 50,349 | 509 | 347 | 133 |
+| Go | 91,694 | 24,713 | 18,025 | 1200 |
+| Yaml | 50,363 | 509 | 347 | 133 |
 | Json | 4,233 | 0 | 0 | 2 |
 | Svg | 3,781 | 23 | 19 | 23 |
 | Sh | 1,893 | 606 | 544 | 40 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.2.0` (2026-07-03)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-18
 - **Assets in release**: 13
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 2353 · **Open PRs**: 56 · **Closed issues**: 291 · **Open issues**: 60 · **Commits**: 2936
+- **Releases**: 59 · **Merged PRs**: 2354 · **Open PRs**: 56 · **Closed issues**: 291 · **Open issues**: 60 · **Commits**: 2938
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 7 | 11 | 0 | 2 | 11 |
-| last60d | 2026-07-20 | 0 | 13 | 20 | 0 | 3 | 19 |
-| 90d | 2026-06-20 | 1 | 24 | 22 | 1 | 5 | 30 |
-| last180d | 2026-03-22 | 1 | 67 | 40 | 3 | 11 | 74 |
-| 360d | 2025-09-23 | 6 | 122 | 50 | 5 | 26 | 149 |
-| last720d | 2024-09-28 | 10 | 324 | 56 | 30 | 39 | 421 |
+| 30d | 2026-08-21 | 0 | 8 | 11 | 0 | 2 | 8 |
+| last60d | 2026-07-22 | 0 | 14 | 20 | 0 | 3 | 20 |
+| 90d | 2026-06-22 | 1 | 25 | 22 | 1 | 5 | 31 |
+| last180d | 2026-03-24 | 1 | 66 | 40 | 3 | 11 | 73 |
+| 360d | 2025-09-25 | 6 | 123 | 50 | 5 | 26 | 151 |
+| last720d | 2024-09-30 | 10 | 324 | 56 | 30 | 38 | 423 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for liqo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:50:42Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:53:34Z._
