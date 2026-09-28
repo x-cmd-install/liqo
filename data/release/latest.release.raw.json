@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 383476,
       "digest": "sha256:28f6db9efda7fa9c1947c9bf394b227f805dfaaae2e1ec91e02a474fa349997e",
-      "download_count": 4704,
+      "download_count": 4811,
       "created_at": "2026-07-03T07:04:44Z",
       "updated_at": "2026-07-03T07:04:45Z",
       "browser_download_url": "https://github.com/liqotech/liqo/releases/download/v1.2.0/liqo-v1.2.0.tgz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 75675234,
       "digest": "sha256:c857b153086d48fadd6d8dc2333576980314c4861c84c9c4bfeabae5ba906ee5",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-07-03T07:05:05Z",
       "updated_at": "2026-07-03T07:05:07Z",
       "browser_download_url": "https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-darwin-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 21568751,
       "digest": "sha256:1bf9ca1340f95bbca5585372e898ff95cbdfaa846421962ef767dbad54933a65",
-      "download_count": 20,
+      "download_count": 22,
       "created_at": "2026-07-03T07:05:03Z",
       "updated_at": "2026-07-03T07:05:04Z",
       "browser_download_url": "https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-darwin-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 23078952,
       "digest": "sha256:88c81be5abfe118bb5d7d45cfde6787267b26bbd5d1c2430486f7017146bf15f",
-      "download_count": 440,
+      "download_count": 444,
       "created_at": "2026-07-03T07:04:59Z",
       "updated_at": "2026-07-03T07:05:00Z",
       "browser_download_url": "https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-linux-amd64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 73400504,
       "digest": "sha256:2e0526576019776e23a8672129b2afbde79c550359670829118e2e3776f75760",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-07-03T07:04:53Z",
       "updated_at": "2026-07-03T07:04:55Z",
       "browser_download_url": "https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-linux-arm64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 20535126,
       "digest": "sha256:ed7d2f38cd2fe93ab16b67b4f0d4660a9405b5d2e8a88ca2ef3f80f96f6591b7",
-      "download_count": 94,
+      "download_count": 95,
       "created_at": "2026-07-03T07:04:52Z",
       "updated_at": "2026-07-03T07:04:52Z",
       "browser_download_url": "https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-linux-arm64.tar.gz"
