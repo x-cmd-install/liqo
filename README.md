@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,487 · **Forks**: 155 · **Open issues**: 354 · **Contributors**: 66
+- **Stars**: 1,488 · **Forks**: 155 · **Open issues**: 354 · **Contributors**: 66
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 6 | 11 | 0 | 5 | 10 |
-| last60d | 2026-08-03 | 0 | 16 | 19 | 1 | 5 | 21 |
-| 90d | 2026-07-04 | 0 | 26 | 27 | 2 | 7 | 34 |
-| last180d | 2026-04-05 | 1 | 60 | 45 | 4 | 13 | 71 |
-| 360d | 2025-10-07 | 6 | 124 | 55 | 7 | 27 | 155 |
-| last720d | 2024-10-12 | 9 | 305 | 61 | 32 | 39 | 405 |
+| 30d | 2026-09-03 | 0 | 6 | 11 | 0 | 5 | 10 |
+| last60d | 2026-08-04 | 0 | 15 | 18 | 1 | 5 | 21 |
+| 90d | 2026-07-05 | 0 | 26 | 27 | 2 | 7 | 34 |
+| last180d | 2026-04-06 | 1 | 60 | 45 | 4 | 13 | 71 |
+| 360d | 2025-10-08 | 6 | 124 | 55 | 7 | 27 | 155 |
+| last720d | 2024-10-13 | 9 | 305 | 61 | 32 | 39 | 405 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for liqo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:20:20Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:59:28Z._
