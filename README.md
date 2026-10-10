@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 4 | 10 | 0 | 4 | 5 |
-| last60d | 2026-08-10 | 0 | 13 | 18 | 1 | 5 | 16 |
-| 90d | 2026-07-11 | 0 | 20 | 26 | 2 | 7 | 28 |
-| last180d | 2026-04-12 | 1 | 60 | 40 | 4 | 13 | 70 |
-| 360d | 2025-10-14 | 6 | 125 | 55 | 7 | 26 | 155 |
-| last720d | 2024-10-19 | 9 | 300 | 61 | 32 | 39 | 398 |
+| 30d | 2026-09-10 | 0 | 4 | 10 | 0 | 4 | 5 |
+| last60d | 2026-08-11 | 0 | 11 | 18 | 1 | 5 | 16 |
+| 90d | 2026-07-12 | 0 | 20 | 26 | 2 | 7 | 28 |
+| last180d | 2026-04-13 | 1 | 59 | 40 | 3 | 13 | 70 |
+| 360d | 2025-10-15 | 6 | 125 | 55 | 7 | 26 | 155 |
+| last720d | 2024-10-20 | 9 | 300 | 61 | 32 | 39 | 398 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for liqo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:51:39Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:29:04Z._
