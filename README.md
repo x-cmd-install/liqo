@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.2.0` (2026-07-03)
-- **Last commit**: 2026-10-26
+- **Latest**: `v1.3.0` (2026-10-30)
+- **Last commit**: 2026-10-30
 - **Assets in release**: 13
 
 ## Popularity
@@ -52,36 +52,36 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 2374 · **Open PRs**: 55 · **Closed issues**: 294 · **Open issues**: 67 · **Commits**: 2960
+- **Releases**: 60 · **Merged PRs**: 2375 · **Open PRs**: 55 · **Closed issues**: 294 · **Open issues**: 67 · **Commits**: 2961
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 12 | 7 | 0 | 7 | 17 |
-| last60d | 2026-08-31 | 0 | 20 | 22 | 0 | 12 | 29 |
-| 90d | 2026-08-01 | 0 | 29 | 26 | 1 | 12 | 39 |
-| last180d | 2026-05-03 | 1 | 60 | 38 | 3 | 18 | 72 |
-| 360d | 2025-11-04 | 6 | 140 | 49 | 7 | 32 | 170 |
-| last720d | 2024-11-09 | 9 | 295 | 55 | 31 | 46 | 398 |
+| 30d | 2026-10-01 | 1 | 13 | 7 | 0 | 7 | 18 |
+| last60d | 2026-09-01 | 1 | 21 | 21 | 0 | 12 | 30 |
+| 90d | 2026-08-02 | 1 | 30 | 26 | 1 | 12 | 40 |
+| last180d | 2026-05-04 | 2 | 59 | 38 | 3 | 18 | 73 |
+| 360d | 2025-11-05 | 7 | 141 | 49 | 7 | 32 | 171 |
+| last720d | 2024-11-10 | 10 | 296 | 55 | 31 | 46 | 399 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [liqo-v1.2.0.tgz](https://github.com/liqotech/liqo/releases/download/v1.2.0/liqo-v1.2.0.tgz) | 374.5 KiB | `native/unknown` |
-| [liqoctl-darwin-amd64](https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-darwin-amd64) | 76.0 MiB | `native/darwin/x64` |
-| [liqoctl-darwin-amd64.tar.gz](https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-darwin-amd64.tar.gz) | 22.4 MiB | `native/darwin/x64` |
-| [liqoctl-darwin-arm64](https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-darwin-arm64) | 72.2 MiB | `native/darwin/arm64` |
-| [liqoctl-darwin-arm64.tar.gz](https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-darwin-arm64.tar.gz) | 20.6 MiB | `native/darwin/arm64` |
-| [liqoctl-linux-amd64](https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-linux-amd64) | 74.3 MiB | `native/linux/x64` |
-| [liqoctl-linux-amd64.tar.gz](https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-linux-amd64.tar.gz) | 22.0 MiB | `native/linux/x64` |
-| [liqoctl-linux-arm](https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-linux-arm) | 69.9 MiB | `native/linux/arm` |
-| [liqoctl-linux-arm.tar.gz](https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-linux-arm.tar.gz) | 20.6 MiB | `native/linux/arm` |
-| [liqoctl-linux-arm64](https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-linux-arm64) | 70.0 MiB | `native/linux/arm64` |
-| [liqoctl-linux-arm64.tar.gz](https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-linux-arm64.tar.gz) | 19.6 MiB | `native/linux/arm64` |
-| [liqoctl-windows-amd64](https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-windows-amd64) | 76.1 MiB | `native/win/x64` |
-| [liqoctl-windows-amd64.tar.gz](https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-windows-amd64.tar.gz) | 22.5 MiB | `native/win/x64` |
+| [liqo-v1.3.0.tgz](https://github.com/liqotech/liqo/releases/download/v1.3.0/liqo-v1.3.0.tgz) | 379.9 KiB | `native/unknown` |
+| [liqoctl-darwin-amd64](https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-darwin-amd64) | 78.7 MiB | `native/darwin/x64` |
+| [liqoctl-darwin-amd64.tar.gz](https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-darwin-amd64.tar.gz) | 23.2 MiB | `native/darwin/x64` |
+| [liqoctl-darwin-arm64](https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-darwin-arm64) | 73.8 MiB | `native/darwin/arm64` |
+| [liqoctl-darwin-arm64.tar.gz](https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-darwin-arm64.tar.gz) | 21.1 MiB | `native/darwin/arm64` |
+| [liqoctl-linux-amd64](https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-linux-amd64) | 77.0 MiB | `native/linux/x64` |
+| [liqoctl-linux-amd64.tar.gz](https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-linux-amd64.tar.gz) | 22.7 MiB | `native/linux/x64` |
+| [liqoctl-linux-arm](https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-linux-arm) | 72.6 MiB | `native/linux/arm` |
+| [liqoctl-linux-arm.tar.gz](https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-linux-arm.tar.gz) | 21.3 MiB | `native/linux/arm` |
+| [liqoctl-linux-arm64](https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-linux-arm64) | 71.6 MiB | `native/linux/arm64` |
+| [liqoctl-linux-arm64.tar.gz](https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-linux-arm64.tar.gz) | 20.1 MiB | `native/linux/arm64` |
+| [liqoctl-windows-amd64](https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-windows-amd64) | 78.7 MiB | `native/win/x64` |
+| [liqoctl-windows-amd64.tar.gz](https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-windows-amd64.tar.gz) | 23.3 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -92,4 +92,4 @@ Install metadata for liqo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:33:08Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:24:55Z._
