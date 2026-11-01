@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 389054,
       "digest": "sha256:8a379181194e09b833896fe61d877bfedf8e2bd8e8d49b22a885a4e5fa2fa493",
-      "download_count": 4,
+      "download_count": 9,
       "created_at": "2026-10-30T19:09:38Z",
       "updated_at": "2026-10-30T19:09:39Z",
       "browser_download_url": "https://github.com/liqotech/liqo/releases/download/v1.3.0/liqo-v1.3.0.tgz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 77357362,
       "digest": "sha256:01665cd78114e99d3d8acda66e51faceca559de9fd6139d3447d62936dc7a55c",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-30T19:10:07Z",
       "updated_at": "2026-10-30T19:10:10Z",
       "browser_download_url": "https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-darwin-arm64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 23802298,
       "digest": "sha256:f1f7930bce2c4bb7316a9ab9b3451d4969e7c333dcd5d34b797110f76a20cb21",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-30T19:09:59Z",
       "updated_at": "2026-10-30T19:10:00Z",
       "browser_download_url": "https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-linux-amd64.tar.gz"
