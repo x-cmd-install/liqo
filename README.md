@@ -38,22 +38,22 @@ Total: **156,574** lines of code across **1424** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,499 · **Forks**: 158 · **Open issues**: 362 · **Contributors**: 67
+- **Stars**: 1,501 · **Forks**: 159 · **Open issues**: 362 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 2386 · **Open PRs**: 53 · **Closed issues**: 300 · **Open issues**: 62 · **Commits**: 2972
+- **Releases**: 60 · **Merged PRs**: 2386 · **Open PRs**: 54 · **Closed issues**: 300 · **Open issues**: 62 · **Commits**: 2972
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 8 | 13 | 2 | 4 | 15 |
-| last60d | 2026-09-18 | 1 | 19 | 19 | 4 | 7 | 29 |
-| 90d | 2026-08-19 | 1 | 31 | 26 | 5 | 8 | 45 |
-| last180d | 2026-05-21 | 2 | 59 | 35 | 9 | 12 | 76 |
-| 360d | 2025-11-22 | 7 | 147 | 47 | 13 | 24 | 176 |
-| last720d | 2024-11-27 | 10 | 284 | 53 | 36 | 41 | 399 |
+| 30d | 2026-10-20 | 1 | 7 | 13 | 2 | 4 | 15 |
+| last60d | 2026-09-20 | 1 | 19 | 19 | 4 | 7 | 29 |
+| 90d | 2026-08-21 | 1 | 31 | 27 | 5 | 8 | 45 |
+| last180d | 2026-05-23 | 2 | 59 | 36 | 9 | 12 | 76 |
+| 360d | 2025-11-24 | 7 | 145 | 48 | 13 | 21 | 176 |
+| last720d | 2024-11-29 | 10 | 283 | 54 | 36 | 41 | 397 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for liqo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:07:29Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:01:24Z._
