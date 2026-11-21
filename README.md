@@ -38,7 +38,7 @@ Total: **156,574** lines of code across **1424** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,501 · **Forks**: 159 · **Open issues**: 362 · **Contributors**: 67
+- **Stars**: 1,503 · **Forks**: 159 · **Open issues**: 362 · **Contributors**: 67
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **156,574** lines of code across **1424** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 6 | 14 | 2 | 4 | 15 |
-| last60d | 2026-09-21 | 1 | 19 | 20 | 4 | 7 | 29 |
-| 90d | 2026-08-22 | 1 | 31 | 28 | 5 | 8 | 45 |
-| last180d | 2026-05-24 | 2 | 59 | 37 | 9 | 12 | 76 |
-| 360d | 2025-11-25 | 7 | 145 | 49 | 13 | 21 | 176 |
-| last720d | 2024-11-30 | 10 | 283 | 55 | 36 | 41 | 395 |
+| 30d | 2026-10-22 | 1 | 6 | 14 | 1 | 4 | 15 |
+| last60d | 2026-09-22 | 1 | 19 | 20 | 4 | 7 | 29 |
+| 90d | 2026-08-23 | 1 | 31 | 28 | 5 | 8 | 45 |
+| last180d | 2026-05-25 | 2 | 59 | 37 | 9 | 12 | 76 |
+| 360d | 2025-11-26 | 7 | 145 | 49 | 13 | 21 | 176 |
+| last720d | 2024-12-01 | 10 | 283 | 55 | 36 | 41 | 395 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for liqo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:53:56Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:47:26Z._
