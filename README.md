@@ -24,6 +24,16 @@ Total: **156,574** lines of code across **1424** files in the top 5 languages.
 | Svg | 3,781 | 23 | 19 | 23 |
 | Sh | 1,912 | 611 | 546 | 40 |
 
+## OpenSSF Scorecard
+
+Overall score: **6.2 / 10**
+
+Lowest-scoring checks:
+
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
+
 ## Source
 
 - **Upstream**: <https://github.com/liqotech/liqo>
@@ -33,27 +43,27 @@ Total: **156,574** lines of code across **1424** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.3.0` (2026-10-30)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-23
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 1,504 · **Forks**: 160 · **Open issues**: 363 · **Contributors**: 67
+- **Stars**: 1,504 · **Forks**: 160 · **Open issues**: 364 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 2386 · **Open PRs**: 58 · **Closed issues**: 300 · **Open issues**: 63 · **Commits**: 2972
+- **Releases**: 60 · **Merged PRs**: 2387 · **Open PRs**: 56 · **Closed issues**: 301 · **Open issues**: 63 · **Commits**: 2973
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 5 | 17 | 1 | 5 | 10 |
-| last60d | 2026-09-24 | 1 | 18 | 22 | 3 | 7 | 27 |
-| 90d | 2026-08-25 | 1 | 29 | 31 | 5 | 9 | 41 |
-| last180d | 2026-05-27 | 2 | 58 | 40 | 9 | 13 | 73 |
-| 360d | 2025-11-28 | 7 | 144 | 52 | 13 | 22 | 175 |
-| last720d | 2024-12-03 | 10 | 280 | 58 | 36 | 42 | 394 |
+| 30d | 2026-10-25 | 1 | 6 | 15 | 1 | 6 | 11 |
+| last60d | 2026-09-25 | 1 | 19 | 19 | 3 | 8 | 28 |
+| 90d | 2026-08-26 | 1 | 30 | 28 | 5 | 10 | 42 |
+| last180d | 2026-05-28 | 2 | 59 | 38 | 9 | 14 | 74 |
+| 360d | 2025-11-29 | 7 | 145 | 50 | 13 | 23 | 176 |
+| last720d | 2024-12-04 | 10 | 279 | 56 | 37 | 42 | 395 |
 
 ## Release assets
 
@@ -82,4 +92,4 @@ Install metadata for liqo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:06:13Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:59:53Z._
