@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,504 · **Forks**: 160 · **Open issues**: 364 · **Contributors**: 68
+- **Stars**: 1,504 · **Forks**: 161 · **Open issues**: 364 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 2387 · **Open PRs**: 55 · **Closed issues**: 301 · **Open issues**: 63 · **Commits**: 2973
+- **Releases**: 60 · **Merged PRs**: 2387 · **Open PRs**: 56 · **Closed issues**: 301 · **Open issues**: 63 · **Commits**: 2973
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 6 | 12 | 1 | 6 | 11 |
-| last60d | 2026-09-26 | 1 | 19 | 18 | 3 | 8 | 28 |
-| 90d | 2026-08-27 | 1 | 30 | 26 | 5 | 10 | 42 |
-| last180d | 2026-05-29 | 2 | 58 | 37 | 9 | 14 | 74 |
-| 360d | 2025-11-30 | 7 | 145 | 49 | 13 | 23 | 176 |
-| last720d | 2024-12-05 | 10 | 275 | 55 | 37 | 42 | 395 |
+| 30d | 2026-10-27 | 1 | 6 | 13 | 1 | 5 | 11 |
+| last60d | 2026-09-27 | 1 | 19 | 19 | 3 | 8 | 28 |
+| 90d | 2026-08-28 | 1 | 30 | 27 | 5 | 10 | 42 |
+| last180d | 2026-05-30 | 2 | 58 | 38 | 9 | 14 | 74 |
+| 360d | 2025-12-01 | 7 | 145 | 50 | 13 | 22 | 176 |
+| last720d | 2024-12-06 | 10 | 273 | 56 | 37 | 42 | 393 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for liqo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:05:55Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:49:19Z._
